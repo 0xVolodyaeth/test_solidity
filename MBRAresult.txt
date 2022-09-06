@@ -1,0 +1,12 @@
+whitelisted mints amount: 380
+	public mints amount: 1121
+
+	total gas for whitelisted mints: 42195086
+	total gas for public mints: 106877792
+
+	average gas for whitelisted mints: 111039
+	average gas for public mints: 95341
+
+	amount of tokens bought through whitelisted mint: 1385
+	amount of tokens bought through publice: 5013
+	
